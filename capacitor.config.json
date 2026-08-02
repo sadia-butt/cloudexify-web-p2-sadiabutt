@@ -1,0 +1,8 @@
+{
+  "appId": "com.fashionlab.app",
+  "appName": "Fashion Lab",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

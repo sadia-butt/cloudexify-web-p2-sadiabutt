@@ -1,0 +1,14 @@
+{
+  "name": "fashion-lab",
+  "version": "1.0.0",
+  "description": "Fashion Lab E-Commerce App",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
