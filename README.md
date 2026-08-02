@@ -4,6 +4,7 @@
 ## Student Information
 
 Name: Sadia Butt
+Registration Number: CX-INT-2026-GEN-0499
 Course: Web Development – Month 1
 Project: E-Commerce Product Page Application
 Technology Used: HTML5, CSS3,  Vanilla JavaScript, Bootstrap 5
